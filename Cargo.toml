@@ -1,0 +1,12 @@
+[package]
+name = "francis"
+description = "Universal and powerful storage engine written in Rust for OrixDB"
+repository = "https://github.com/orixdb/francis"
+readme = "https://github.com/orixdb/francis#readme"
+license = "MIT"
+keywords = ["database", "storage", "storage-engine", "rust-lang"]
+categories = ["database-implementations"]
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
